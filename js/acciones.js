@@ -16,7 +16,7 @@ $(document).ready(function(e){
 					break;
 					
 					case 2:
-					navigfator.notification.vibrate(1000);
+					navigator.notification.vibrate(1000);
 					break;
 				}
 			},"Aplicacion7","Beep,Vibrar,Cancelar");
